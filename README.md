@@ -7,16 +7,10 @@
 - 🌱 I’m currently learning Java/ Python 
 - 👯 I’m looking to collaborate on other person 
 
-👉Skill:
+👉Skills:
 ✅ C/ C++
 ✅ Java/ Python
 ✅ HTML/ CSS
 ✅ CP programming
 
-
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Murshid057)](https://github.com/anuraghazra/github-readme-stats)
-
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Murshid057&show_icons=true)  
-
-[Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Murshid057/contributions?format=svg&private=false)  
 
