@@ -10,3 +10,8 @@ Skills: C++/ Java/ Python/ HTML/ CSS
 - 🌱 I’m currently learning Java/ Python 
 - 👯 I’m looking to collaborate on other person 
 
+👉Skill:
+✅ C/ C++
+✅ Java/ Python
+✅ HTML/ CSS
+✅ CP programming
