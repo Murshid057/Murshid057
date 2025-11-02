@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Java/ Python 
 - 👯 I’m looking to collaborate on other person 
 
-###👉Skills:
+👉Skills:
 ✅ C/ C++
 ✅ Java/ Python
 ✅ HTML/ CSS
