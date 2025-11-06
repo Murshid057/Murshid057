@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m currently practics working on Problem Solving 
-- 🌱 I’m currently learning Java/ Python 
-- 👯 I’m looking to collaborate on other person 
+- 🌱 I’m currently learning C++/Java/ Python 
+- 👯 I’m looking to collaborate on Github
 
 👉Skills:
 ✅ C/ C++
