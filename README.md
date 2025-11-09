@@ -5,6 +5,7 @@
 <h4 align = "left"> About Me: </h4>
 <p5 align="left">I am a dedicated programmer & problem solver with a strong passion for writing clean and efficient code. I enjoy transforming complex problems into simple, logical solutions through smart algorithms and optimized implementation. My work focuses on performance, accuracy, and scalability to ensure real-world reliability. I continuously learn new technologies to stay updated and improve my development skills. </p5>
 
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=murshid057&label=Profile%20views&color=0e75b6&style=flat" alt="murshid057" /> </p>
 - 🔭 I’m currently working on [Problem Solving](https://codeforces.com/profile/Murshid_Mahmud)
 
