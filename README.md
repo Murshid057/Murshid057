@@ -1,11 +1,11 @@
 ![Competitive Problem Solver](https://media.licdn.com/dms/image/v2/D4D16AQHnXacMaW2I7A/profile-displaybackgroundimage-shrink_350_1400/B4DZf1raVXGQAY-/0/1752173489127?e=1763596800&v=beta&t=5y8UdHxmtB338PY03Oqmy77nUW5AgS_lgYJ3Rsv4cWY)
 <h1 align="center">Hi 👋, I'm Md Murshid Mahmud</h1>
 <h3 align="center">Competitive Problem Solver</h3>
+<h5 align="center">🌲Think less, Do more🌱</h5>
 <h4 align = "left"> About Me: </h4>
 <p align="left">I am a dedicated programmer & problem solver with a strong passion for writing clean and efficient code. I enjoy transforming complex problems into simple, logical solutions through smart algorithms and optimized implementation. My work focuses on performance, accuracy, and scalability to ensure real-world reliability. I continuously learn new technologies to stay updated and improve my development skills. </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=murshid057&label=Profile%20views&color=0e75b6&style=flat" alt="murshid057" /> </p>
-
 - 🔭 I’m currently working on [Problem Solving](https://codeforces.com/profile/Murshid_Mahmud)
 
 - 🌱 I’m currently learning **C++/java/python**
