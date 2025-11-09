@@ -17,7 +17,6 @@
 - 📫 How to reach me **murshidmahmud4@gmail.com**
 
 - ⚡ Fun fact **I love coding**
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/murshid57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murshid57" height="20" width="30" /></a>
