@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Md Murshid Mahmud</h1>
 <h3 align="center">Competitive Problem Solver</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=murshid057&label=Profile%20views&color=0e75b6&style=flat" alt="murshid057" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murshid057&label=Profile%20views&color=0e75b6&style=flat" alt="murshid057" /> </p>
 
-- 🔭 I’m currently working on **Problem Solving**
+- 🔭 I’m currently working on [Problem Solving](https://codeforces.com/profile/Murshid_Mahmud)
 
 - 🌱 I’m currently learning **C++/java/python**
 
-- 👯 I’m looking to collaborate on **Github**
+- 👯 I’m looking to collaborate on [Github](https://github.com/Murshid057)
+
+- 💬 Ask me about **cpp/java/py**
 
 - 📫 How to reach me **murshidmahmud4@gmail.com**
 
@@ -30,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murshid057&show_icons=true&locale=en" alt="murshid057" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murshid057&" alt="murshid057" /></p>
+
