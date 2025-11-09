@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Murshid Mahmud</h1>
 <h3 align="center">Competitive Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murshid057&label=Profile%20views&color=0e75b6&style=flat" alt="murshid057" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=murshid057&label=Profile%20views&color=0e75b6&style=flat" alt="murshid057" /> </p>
 
 - 🔭 I’m currently working on **Problem Solving**
 
