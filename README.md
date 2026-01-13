@@ -1,12 +1,12 @@
 ![Competitive Problem Solver](https://media.licdn.com/dms/image/v2/D4D16AQHnXacMaW2I7A/profile-displaybackgroundimage-shrink_350_1400/B4DZf1raVXGQAY-/0/1752173489127?e=1769644800&v=beta&t=RXApj6EkRg6lQh1qlRzm_GdoTtivV7ftQvRfuzgVGUY)
 <h1 align="center">Hi 👋, I'm Md Murshid Mahmud</h1>
-<h3 align="center">📲Software Developer & Problem Solver💊</h3>
+<h3 align="center">📲Programmer & Problem Solver💊</h3>
 <h5 align="center">🌲THINK LESS, DO MORE🌱</h5>
 <h4 align = "left"> About Me: </h4>
 <p5 align="left">I am a dedicated programmer & problem solver with a strong passion for writing clean and efficient code. I enjoy transforming complex problems into simple, logical solutions through smart algorithms and optimized implementation. My work focuses on performance, accuracy, and scalability to ensure real-world reliability. I continuously learn new technologies to stay updated and improve my development skills. </p5>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=murshid057&label=Profile%20views&color=0e75b6&style=flat" alt="murshid057" /> </p>
-- 🔭 I’m currently working on Problem Solving
+- 🔭 I’m currently working on Problem Solving on <a href="https://codeforces.com/profile/Murshid_Mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="20" width="30" /></a>
 
 - 🌱 I’m currently learning **C++/java/python**
 
