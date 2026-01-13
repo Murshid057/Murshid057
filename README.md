@@ -6,7 +6,8 @@
 <p5 align="left">I am a dedicated programmer & problem solver with a strong passion for writing clean and efficient code. I enjoy transforming complex problems into simple, logical solutions through smart algorithms and optimized implementation. My work focuses on performance, accuracy, and scalability to ensure real-world reliability. I continuously learn new technologies to stay updated and improve my development skills. </p5>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=murshid057&label=Profile%20views&color=0e75b6&style=flat" alt="murshid057" /> </p>
-- 🔭 I’m currently working on Problem Solving on <a href="https://codeforces.com/profile/Murshid_Mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="20" width="30" /></a>
+- 🔭 I’m currently working on Problem Solving on <a href="https://codeforces.com/profile/Murshid_Mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/murshid_mahmud" height="20" width="30" /></a> 
+<a href="https://www.codechef.com/users/mahmud5700" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="20" width="30" /></a>
 
 - 🌱 I’m currently learning **C++/java/python**
 
